@@ -34,3 +34,20 @@ git push origin mail
 git pull orrigin main
 ```
 - Sirve para poder descargar los cambios de nuestro reposirotios en la nube, en este caso github
+
+```
+git brunch
+```
+- Este Sirve para poder listar los branchs que tengo localmente y me dice en cual me encuentro actualmente
+
+```
+git checkout -b "nombre_del_branch"
+```
+- Este sirve para crear un branch nuevo y poder trabajrael
+
+```
+git checkout "nombre_del_Branch
+```
+- Sirve para poder moverme entre ramas
+- :eye:
+
